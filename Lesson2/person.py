@@ -5,7 +5,7 @@ class Person:
         self.age = age
 
     def introduce(self):
-        print(f"Hello, my name is {self.name} and I am {self.age} years old.")
+        print(f"Hello, name is {self.name} and I am {self.age} years old.")
 
 # Create child classes that inherit from Person
 class Student(Person):

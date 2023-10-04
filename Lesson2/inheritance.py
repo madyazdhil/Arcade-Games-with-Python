@@ -52,7 +52,7 @@ class Assassin(Player):
 knight = Knight("Sir Lancelot")
 wizard = Wizard("Merlin")
 archer = Archer("Robin Hood")
-assassin = Assassin("Ezio")
+assassin = Assassin("Rina")
 
 # Let the characters interact
 knight.attack(wizard)
