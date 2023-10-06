@@ -3,7 +3,7 @@ class Player:
     def __init__(self, player_name, blood, attack_power):
         self.player_name = player_name
         self.blood = blood
-        self.attack_power = attack_power1
+        self.attack_power = attack_power
 
     def attack(self, enemy):
         print(f"{self.player_name} attacks {enemy.player_name} with {self.attack_power} attack power!")
