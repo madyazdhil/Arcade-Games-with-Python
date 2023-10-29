@@ -39,7 +39,7 @@ class MainGame(arcade.Window):
         self.scene.add_sprite_list("Enemies", use_spatial_hash=True)
 
         # Adding player sprite
-        self.player_sprite = arcade.Sprite(":resources:images/animated_characters/male_adventurer/maleAdventurer_walk0.png", 1)
+        self.player_sprite = arcade.Sprite("monster-right.png", 1)
 
 
         # Adding coordinates for the center of the sprite
