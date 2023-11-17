@@ -1,0 +1,594 @@
+{ "columns":0,
+ "grid":
+    {
+     "height":1,
+     "orientation":"orthogonal",
+     "width":1
+    },
+ "margin":0,
+ "name":"tilescollection",
+ "spacing":0,
+ "tilecount":96,
+ "tiledversion":"1.10.2",
+ "tileheight":70,
+ "tiles":[
+        {
+         "id":0,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundraHillRight2.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":1,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundraLedgeLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":2,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundraLedgeRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":3,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundraLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":4,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundraMid.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":5,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundraRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":6,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundraCliffRightAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":7,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundraHalf.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":8,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundraHalfLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":9,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundraHalfMid.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":10,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundraHalfRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":11,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundraHillLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":12,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundraHillLeft2.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":13,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundraHillRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":14,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeTrunkSplitLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":15,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeTrunkSplitRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":16,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeTrunkTop.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":17,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundra.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":18,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundraCenter.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":19,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundraCenter_rounded.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":20,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundraCliffLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":21,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundraCliffLeftAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":22,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tundraCliffRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":23,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeTrunkBottomAlt3.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":24,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeTrunkBranch.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":25,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeTrunkBranchEndLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":26,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeTrunkBranchEndRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":27,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeTrunkBranchLeftAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":28,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeTrunkBranchRightAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":29,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeTop.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":30,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeTopSnow.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":31,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeTrunk.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":32,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeTrunkBottom.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":33,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeTrunkBottomAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":34,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeTrunkBottomAlt2.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":35,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeBranchesRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":36,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeBranchesSnowLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":37,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeBranchesSnowRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":38,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeBranchesSnowRightAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":39,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeBranchesSnowRightSnowAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":40,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/spikesTopAlt2.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":41,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/spikeTop.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":42,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/tree.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":43,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeBranchesLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":44,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeBranchesLeftAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":45,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/treeBranchesLeftSnowAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":46,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/snowWave.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":47,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/spikesBottom.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":48,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/spikesBottomAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":49,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/spikesBottomAlt2.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":50,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/spikesTop.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":51,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/spikesTopAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":52,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/snowGroundLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":53,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/snowGroundRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":54,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/snowHill.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":55,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/snowHillLow.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":56,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/snowLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":57,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/snowMid.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":58,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/snowRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":59,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/rock.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":60,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/rockAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":61,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/snowBall.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":62,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/snowBallBig.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":63,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/snowBallBigGround.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":64,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/snowBallGround.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":65,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/iglooRoofLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":66,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/iglooRoofRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":67,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/pineSapling.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":68,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/pineSaplingAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":69,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/plant.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":70,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/plantAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":71,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/iceWaterMid.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":72,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/iceWaterMidAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":73,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/igloo.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":74,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/iglooAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":75,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/iglooDoor.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":76,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/iglooRoof.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":77,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/iceWater.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":78,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/iceWaterAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":79,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/iceWaterDeep.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":80,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/iceWaterDeepAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":81,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/iceWaterDeepStars.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":82,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/iceWaterDeepStarsAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":83,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/caneRedTop.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":84,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/caneRedTopAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":85,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/deadTree.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":86,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/iceBlock.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":87,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/iceBlockAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":88,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/iceBlockHalf.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":89,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/iceBlockHalfAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":90,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/caneGreenTop.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":91,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/caneGreenTopAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":92,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/caneRed.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":93,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/caneRedSmall.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":94,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/caneGreen.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":95,
+         "image":"C:\/Users\/Koding Next\/Downloads\/kenney_platformer-art-winter\/Tiles\/caneGreenSmall.png",
+         "imageheight":70,
+         "imagewidth":70
+        }],
+ "tilewidth":70,
+ "type":"tileset",
+ "version":"1.10"
+}
