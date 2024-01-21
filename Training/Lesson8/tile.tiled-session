@@ -1,0 +1,229 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "H:/Other computers/My laptop/Koding Next/Teaching-Python2/JK- Sun - S2/Lesson13/Maps.json",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/Koding Next/AppData/Local/Temp/4a7c4778-5d89-46d8-a3f8-7b6620129fe8_Tiled Sample.zip.fe8/Sample.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 7780,
+                "y": 3830
+            }
+        },
+        "C:/Users/Koding Next/AppData/Local/Temp/4a7c4778-5d89-46d8-a3f8-7b6620129fe8_Tiled Sample.zip.fe8/Sample.tsx": {
+            "scaleInDock": 1
+        },
+        "G:/My Drive/Assets - Python Arcade Games/Mr.Ahmad's Assets/map1.json": {
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 514.6666666666666,
+                "y": 223.66666666666663
+            }
+        },
+        "G:/My Drive/Assets - Python Arcade Games/Mr.Ahmad's Assets/sets.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.03125,
+            "scaleInEditor": 0.0625
+        },
+        "H:/.shortcut-targets-by-id/15rQu_yjHQhzRYrp4MqQMPRylflfytPxW/JuniorKoders 12-16/Python 2   Arcade Game Development - Module - JK 12-16/09 Collecting Items - Python2 - JK 12-16/projects/balls.json": {
+            "scaleInDock": 1
+        },
+        "H:/.shortcut-targets-by-id/15rQu_yjHQhzRYrp4MqQMPRylflfytPxW/JuniorKoders 12-16/Python 2   Arcade Game Development - Module - JK 12-16/09 Collecting Items - Python2 - JK 12-16/projects/level1.json": {
+            "scale": 0.7437142857142857,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 483.38455628121403,
+                "y": 343.54590856703805
+            }
+        },
+        "H:/.shortcut-targets-by-id/15rQu_yjHQhzRYrp4MqQMPRylflfytPxW/JuniorKoders 12-16/Python 2   Arcade Game Development - Module - JK 12-16/09 Collecting Items - Python2 - JK 12-16/projects/tileset.json": {
+            "scaleInDock": 1
+        },
+        "H:/.shortcut-targets-by-id/15rQu_yjHQhzRYrp4MqQMPRylflfytPxW/JuniorKoders 12-16/Python 2   Arcade Game Development - Module - JK 12-16/09 Collecting Items/projects/tileset.json": {
+            "scaleInDock": 1
+        },
+        "H:/.shortcut-targets-by-id/15rQu_yjHQhzRYrp4MqQMPRylflfytPxW/JuniorKoders 12-16/Python 2   Arcade Game Development - Module - JK 12-16/12 - Integrate Game Screen - Python2 - JK 12-16/Projects/Maps.json": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 2,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 239,
+                "y": 152
+            }
+        },
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/JK- Sun - S2/Lesson12/Assets/tilesets.json.tsj": {
+            "dynamicWrapping": false
+        },
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/JK- Sun - S2/Lesson13/Maps.json": {
+            "scale": 2.0563541666666665,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 240.71728889114033,
+                "y": 140.53999290816068
+            }
+        },
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/JK- Sun - S2/Lesson13/Tiled.json": {
+            "scaleInDock": 1
+        },
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/JK- Sun - S2/Lesson8-9/map1.json": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 752,
+                "y": 415.5
+            }
+        },
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/JK- Sun - S2/Lesson8-9/tileset.json": {
+            "scaleInDock": 0.0625,
+            "scaleInEditor": 0.125
+        },
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/JK- Sun - S2/Lesson8/map1.json": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 284.66666666666663,
+                "y": 452.66666666666674
+            }
+        },
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/JK- Sun - S2/Lesson9/map1.json": {
+            "scale": 4,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 356,
+                "y": 198.125
+            }
+        },
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/Training/Lesson10/Assets/Isometric/sample1.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 6622,
+                "y": 3037
+            }
+        },
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/Training/Lesson10/isometric.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 0.25
+        },
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/Training/Lesson12/asli/Maps.json": {
+            "scale": 1.6298437499999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240.51385293835688,
+                "y": 179.77183395647592
+            }
+        },
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/Training/Lesson12/asli/Tiled.json": {
+            "scaleInDock": 1
+        },
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/Training/Lesson12/tilesets22.json": {
+            "dynamicWrapping": false
+        },
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/Training/Lesson9/map1.json": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 386.33333333333326,
+                "y": 171.33333333333334
+            }
+        },
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/Training/Lesson9/projects/3d.json": {
+            "scale": 0.316171875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2362.6389918458117,
+                "y": 1510.2545095132195
+            }
+        },
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/Training/Lesson9/projects/balls.json": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/Training/Lesson9/projects/level1.json": {
+            "scale": 1.0332380952380953,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 857.4983869481059,
+                "y": 422.45829108673604
+            }
+        },
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/Training/Lesson9/projects/level2.json": {
+            "scale": 1.0332380952380953,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 857.4983869481059,
+                "y": 422.45829108673604
+            }
+        },
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/Training/Lesson9/projects/tileset.json": {
+            "scaleInDock": 1
+        },
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/Training/Lesson9/tilesets.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.03125,
+            "scaleInEditor": 0.12
+        },
+        "H:\\Other computers\\My laptop\\Koding Next\\Teaching-Python2\\Training\\Lesson9\\projects\\tileset.json": {
+            "scaleInDock": 1
+        },
+        "map1.json": {
+            "scale": 11,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 319.27272727272725,
+                "y": 29.363636363636367
+            }
+        },
+        "tile3D.json": {
+            "dynamicWrapping": true
+        },
+        "tilesets.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.0625
+        }
+    },
+    "last.imagePath": "H:/Other computers/My laptop/Koding Next/Teaching-Python2/JK- Sun - S2/Lesson12/Assets",
+    "map.height": 20,
+    "map.lastUsedFormat": "json",
+    "map.orientation": null,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 30,
+    "openFiles": [
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/JK- Sun - S2/Lesson13/Maps.json"
+    ],
+    "project": "",
+    "recentFiles": [
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/JK- Sun - S2/Lesson13/Maps.json",
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/JK- Sun - S2/Lesson9/map1.json",
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/Training/Lesson9/projects/level2.json",
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/Training/Lesson9/projects/3d.json",
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/Training/Lesson9/projects/level1.json",
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/Training/Lesson9/tilesets.json",
+        "G:/My Drive/Assets - Python Arcade Games/Mr.Ahmad's Assets/sets.json",
+        "G:/My Drive/Assets - Python Arcade Games/Mr.Ahmad's Assets/map1.json",
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/Training/Lesson10/Assets/Isometric/sample1.json",
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/Training/Lesson10/isometric.json",
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/JK- Sun - S2/Lesson8-9/tileset.json",
+        "H:/Other computers/My laptop/Koding Next/Teaching-Python2/JK- Sun - S2/Lesson8-9/map1.json"
+    ],
+    "tileset.lastUsedFormat": "json",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 0
+}
